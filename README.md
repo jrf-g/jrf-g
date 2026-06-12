@@ -8,18 +8,16 @@ I'm a Software Engineer. I love turning ideas into production-ready code and sha
 ---
 
 ## 🚀 What I do
-I design and build scalable systems, developer tools, and delightful user experiences. I enjoy solving backend performance problems, shipping automated workflows, and contributing to OSS.
+I design and build simple AI apps, developer tools, and delightful user experiences. I enjoy solving backend performance problems, shipping automated workflows, and contributing to OSS.
 
 ## 🛠️ Top technologies & tools
 - Languages: `JavaScript` , `CoffeeScript` , `Python`, `C++` 
 - Frameworks & Platforms: `NodeJS` , `Git`, `.NET`
 
-*(Customize the lists above to match your real top skills.)*
 
 ---
 
-## 📈 GitHub Stats (optional)
-You can include dynamic stats by adding the following images (replace `your-username` with your GitHub username):
+## 📈 GitHub Stats
 
 - Total contributions card:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrf-g)
