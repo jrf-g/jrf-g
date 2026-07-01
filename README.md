@@ -2,9 +2,6 @@
 
 I'm a Software Engineer. I love turning ideas into production-ready code and sharing useful open-source tools.
 
-- 👯 I’m open to collaborating on: **AI**
-- 💬 Ask me about: **Copyleft Licenses**
-
 ---
 
 ## 🚀 What I do
