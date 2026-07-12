@@ -10,17 +10,3 @@ I design and build simple AI apps, developer tools, and delightful user experien
 ## 🛠️ Top technologies & tools
 - Languages: `JavaScript` , `CoffeeScript` , `Python`, `C++` 
 - Frameworks & Platforms: `NodeJS` , `Git`, `.NET`
-
-
----
-
-## 📈 GitHub Stats
-
-- Total contributions card:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jrf-g)
-
-- Top languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrf-g&layout=compact&theme=default)
-
-- Profile stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=jrf-g&show_icons=true&theme=default)
