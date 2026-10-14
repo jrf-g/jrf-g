@@ -10,3 +10,6 @@ I design and build simple AI apps, developer tools, and delightful user experien
 ## 🛠️ Top technologies & tools
 - Languages: `JavaScript` , `CoffeeScript` , `Python`, `C++` 
 - Frameworks & Platforms: `NodeJS` , `Git`, `.NET`
+
+## Give Feedback
+<https://forms.cloud.microsoft/r/QpXE0fMsLN>
